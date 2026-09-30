@@ -53,3 +53,15 @@ console.log(secretKey ? 'Key loaded' : 'Key missing');
 ```
 
 You should see `Key loaded`. Never print the key itself.
+
+## Result
+
+Your Paystack secret key is now stored in a `.env` file instead of your code, and Git will not upload it to GitHub.
+
+## Troubleshooting
+
+| Problem | Fix |
+|---------|-----|
+| The console shows `Key missing` | Check that the file is named exactly `.env`, sits in the project root, and the variable is spelled `PAYSTACK_SECRET_KEY`. |
+| `dotenv` is not found | Run `npm install dotenv` again in your project folder. |
+| The key was uploaded to GitHub | Regenerate your secret key in the Paystack dashboard right away, then remove the old one from your repo. |
