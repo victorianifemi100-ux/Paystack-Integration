@@ -2,11 +2,6 @@
 
 A fintech company that helps businesses accept and manage online/offline payments across Africa.
 
-## Prerequisites
-
-- A Paystack account
-- Your test API keys (Settings → API Keys & Webhooks)
-
 ## Installation
 
 ```bash
