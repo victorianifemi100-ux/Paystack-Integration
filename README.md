@@ -57,6 +57,7 @@ A typical Paystack payment process involves the following steps:
 
 Here is what the Paystack payment page looks like to a customer:
 
+<img width="1920" height="1080" alt="1111bb07-3142-487a-b7cd-f30c227ecf4b-cover" src="https://github.com/user-attachments/assets/8033bc1c-051c-4b06-a393-2ba9ae993eab" />
 
 
 
