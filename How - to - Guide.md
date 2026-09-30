@@ -1,4 +1,5 @@
 # How to Configure Environment Variables for Paystack
+
 Use this guide to keep your Paystack API/Secret Keys  safely in a node.js app, so it will not appear in your code
 
 ## Before you begin
