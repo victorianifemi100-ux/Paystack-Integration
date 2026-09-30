@@ -24,14 +24,13 @@ A fintech company that helps businesses accept and manage online/offline payment
 
 Developers can integrate Paystack into their application using the Paystack API. This allows them to build customised payment experiences and manage transactions programmatically.
 
-'''bash
-curl https://api.paystack.co/transaction/initialize \
--H "Authorization: Bearer YOUR_SECRET_KEY" \
--H "Content-Type: application/json" \
--d '{email": "customer@email.com", "amount": 20000}' \
--X POST
-'''
-
+```bash
+curl  https://api.paystack.co/transaction/initialize \
+   -H "Authorization: Bearer YOUR_SECRET_KEY" \
+   -H "Content-Type: application/json" \
+   -d '{email": "customer@email.com", "amount": 20000}' \
+   -X POST
+```
 ## **What it can be used for** ##
 
 Paystack can be used to accept and manage online payments on websites and applications. After integrating Paystack, customers can select a product or service, make a payment, and receive confirmation when the transaction is completed.
