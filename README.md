@@ -2,6 +2,26 @@
 
 A fintech company that helps businesses accept and manage online/offline payments across Africa.
 
+## Prerequisites
+
+- A Paystack account
+- Your test API keys (Settings → API Keys & Webhooks)
+
+## Installation
+
+```bash
+git clone https://github.com/victorianifemi100-ux/Paystack-Integration.git
+cd Paystack-Integration
+```
+
+## Configuration
+
+Create a `.env` file and add your key:
+
+```
+PAYSTACK_SECRET_KEY=YOUR_SECRET_KEY
+```
+
 ## Getting Started with Paystack
 
 1. **Create your Paystack account**
@@ -49,26 +69,6 @@ A typical Paystack payment process involves the following steps:
 | 5.   | Payment Confirmation | The application receives the transaction status and confirms the payment.  |
 
 
-## Prerequisites
-
-- A Paystack account
-- Your test API keys (Settings → API Keys & Webhooks)
-
-## Installation
-
-```bash
-git clone https://github.com/victorianifemi100-ux/Paystack-Integration.git
-cd Paystack-Integration
-```
-
-## Configuration
-
-Create a `.env` file and add your key:
-
-```
-PAYSTACK_SECRET_KEY=YOUR_SECRET_KEY
-```
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
@@ -80,9 +80,5 @@ This project is licensed under the MIT License.
 ## Author
 
 Victoria Nifemi, [GitHub](https://github.com/victorianifemi100-ux)
-
-
-
-
 
 
