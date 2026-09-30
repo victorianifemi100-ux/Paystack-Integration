@@ -40,39 +40,10 @@ Paystack can be used to accept and manage online payments on websites and applic
 
 A typical Paystack payment process involves the following steps:
 
-| Step | Action | Description |
--------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Step
-Action
-Description
-1
-Select Product
-The customer chooses a product or service they want to purchase.
-2
-Proceed to Payment
-The customer proceeds to the payment page.
-3
-Make Payment
-The customer provides their payment details and completes the transaction.
-4
-Process Transaction
-Paystack processes the payment and verifies the transaction.
-5
-Payment Confirmation
-The application receives the transaction status and confirms the payment.
+| Step | Action               | Description.                                                               |
+-------|----------------------|----------------------------------------------------------------------------|
+| 1.   | Select Product       | The customer chooses a product or service they want to purchase.           |
+| 2.   | Proceed to Payment   | The customer proceeds to the payment page.                                 |
+| 3.   | Make Payment         | The customer provides their payment details and completes the transaction. |
+| 4.   | Process Transaction  | Paystack processes the payment and verifies the transaction.               |
+| 5.   | Payment Confirmation | The application receives the transaction status and confirms the payment.  |
