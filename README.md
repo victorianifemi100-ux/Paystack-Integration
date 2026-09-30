@@ -62,6 +62,7 @@ Here is what the Paystack payment page looks like to a customer:
 
 
 ## Contributing
+
 Contributions are welcome. Help improve the documentation by fixing errors, suggesting improvements, or adding useful examples.
 
 To contribute:
