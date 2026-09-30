@@ -1,10 +1,10 @@
 # Paystack 
 
-![Documentation](https://img.shields.io/badge/Documentation-Available-blue) 
+![Documentation](https://img.shields.io/badge/Documentation-Available-blue)
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-![License](https://img.shields.io/badge/License-MIT-green)
+![Payments](https://img.shields.io/badge/Payments-Paystack-blue)
 
 [https://paystack.com/docs]
 
@@ -67,3 +67,17 @@ Here is what the Paystack payment page looks like to a customer:
 ## Contributing
 
 Contributions are welcome. Please [open an issue](https://github.com/victorianifemi100-ux/Paystack-Integration/issues) to suggest changes.
+
+[
+
+![Documentation](https://img.shields.io/badge/Documentation-Available-blue)
+
+](https://paystack.com/docs)
+
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+
+
+
+![Payments](https://img.shields.io/badge/Payments-Paystack-blue)
