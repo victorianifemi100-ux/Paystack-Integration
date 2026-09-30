@@ -13,7 +13,7 @@ Use this guide to keep your Paystack API/Secret Keys  safely in a node.js app, s
 
 ### 1. Install the dotenv package
 
-In your project folder, Install the package that reads ` .env` files:
+In your project folder, install the package that reads ` .env` files:
 
 ```bash
   npm install dotenv
