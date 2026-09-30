@@ -22,7 +22,7 @@ In your project folder, Install the package that reads ` .env` files:
 In the root of your project (the same folder as `package.json`), create a file named `.env` and add your key. Don't put spaces `=` or quotes around the key.
 
 ```
-PAYSTACK_SECRET_KEY=your_test_secret_key_heren
+PAYSTACK_SECRET_KEY=your_test_secret_key_here
 ```
  
 ### 3. Keep the .env file off GitHub
