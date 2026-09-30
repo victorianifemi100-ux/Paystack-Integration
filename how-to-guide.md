@@ -1,6 +1,6 @@
 # How to Configure Environment Variables for Paystack
 
-Use this guide to keep your Paystack API/Secret Keys  safely in a node.js app, so it will not appear in your code
+Use this guide to keep your Paystack API/Secret key safely in a node.js app, so it will not appear in your code
 
 ## Before you begin
 
@@ -16,7 +16,7 @@ Use this guide to keep your Paystack API/Secret Keys  safely in a node.js app, s
 In your project folder, install the package that reads ` .env` files:
 
 ```bash
-  npm install dotenv
+npm install dotenv
 ```
 ### 2. Create the .env file
 
