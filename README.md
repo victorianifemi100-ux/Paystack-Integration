@@ -62,5 +62,12 @@ Here is what the Paystack payment page looks like to a customer:
 
 
 ## Contributing
+Contributions are welcome. Help improve the documentation by fixing errors, suggesting improvements, or adding useful examples.
 
-Contributions are welcome. Please [open an issue](https://github.com/victorianifemi100-ux/Paystack-Integration/issues) to suggest changes.
+To contribute:
+- Forking the repository.
+- Creating a branch for your changes.
+- Making and testing your changes.
+- Submitting a pull request with a clear description of what you changed.
+  
+Please [open an issue](https://github.com/victorianifemi100-ux/Paystack-Integration/issues) to suggest changes.
