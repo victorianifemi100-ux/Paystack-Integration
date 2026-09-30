@@ -18,6 +18,7 @@ In your project folder, install the package that reads ` .env` files:
 ```bash
 npm install dotenv
 ```
+
 ### 2. Create the .env file
 
 In the root of your project (the same folder as `package.json`), create a file named `.env` and add your key. Don't put spaces `=` or quotes around the key.
