@@ -2,6 +2,8 @@
 
 Use this guide to keep your Paystack API/Secret key safely in a Node.js app, so it will not appear in your code
 
+**Tool documented:** Paystack, using `dotenv` in a Node.js app.
+
 ## Before you begin
 
 - A Paystack account 
