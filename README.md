@@ -55,6 +55,14 @@ A typical Paystack payment process involves the following steps:
 | 4.   | Process Transaction  | Paystack processes the payment and verifies the transaction.               |
 | 5.   | Payment Confirmation | The application receives the transaction status and confirms the payment.  |
 
+### Example
+
+Here is what the Paystack payment page looks like to a customer:
+
+
+
+
+
 ## Contributing
 
 Contributions are welcome. Please [open an issue](https://github.com/victorianifemi100-ux/Paystack-Integration/issues) to suggest changes.
