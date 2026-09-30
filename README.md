@@ -31,7 +31,7 @@ curl  https://api.paystack.co/transaction/initialize \
    -d '{email": "customer@email.com", "amount": 20000}' \
    -X POST
 ```
-## **What it can be used for** ##
+## What it can be used for ##
 
 Paystack can be used to accept and manage online payments on websites and applications. After integrating Paystack, customers can select a product or service, make a payment, and receive confirmation when the transaction is completed.
 
