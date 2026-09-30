@@ -1,11 +1,8 @@
 # Paystack 
 
 ![Documentation](https://img.shields.io/badge/Documentation-Available-blue)
-
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
 ![Payments](https://img.shields.io/badge/Payments-Paystack-blue)
-
 [https://paystack.com/docs]
 
 A fintech company that helps businesses accept and manage online/offline payments across Africa.
