@@ -21,19 +21,6 @@ Use this guide to keep your Paystack API/Secret Keys  safely in a node.js app, s
 
   In the root of your project (the same folder as `package.json`), create a file named `.env` and add your key. Don't put spaces `=` or quotes around the key.
 
-
-
-
-
-
-
-
-
-
-### 2. Create the .env file
-
-In the root of your project (the same folder as `package.json`), create a file named `.env` and add your key. Don't put spaces around `=` or quotes around the key.
-
 ```
 PAYSTACK_SECRET_KEY=your_test_secret_key_heren
 ```
