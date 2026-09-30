@@ -64,17 +64,3 @@ Here is what the Paystack payment page looks like to a customer:
 ## Contributing
 
 Contributions are welcome. Please [open an issue](https://github.com/victorianifemi100-ux/Paystack-Integration/issues) to suggest changes.
-
-[
-
-![Documentation](https://img.shields.io/badge/Documentation-Available-blue)
-
-](https://paystack.com/docs)
-
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
-
-
-
-![Payments](https://img.shields.io/badge/Payments-Paystack-blue)
