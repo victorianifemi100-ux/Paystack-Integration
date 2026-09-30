@@ -3,6 +3,6 @@ Use this guide to keep your Paystack API/Secret Keys  safely in a node.js app, s
 
 ## Before you begin
 - A Paystack account 
-- Your test secret key (Settings; API keys & Webhooks
+- Your test secret key (Settings > API keys & Webhooks
 - Node.js and npm installed 
 - An existing Node.js project 
