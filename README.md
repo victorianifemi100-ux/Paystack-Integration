@@ -36,7 +36,7 @@ curl https://api.paystack.co/transaction/initialize \
 
 Paystack can be used to accept and manage online payments on websites and applications. After integrating Paystack, customers can select a product or service, make a payment, and receive confirmation when the transaction is completed.
 
-### Payment Process ###
+**Payment Process**
 
 A typical Paystack payment process involves the following steps:
 
