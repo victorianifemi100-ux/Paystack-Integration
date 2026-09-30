@@ -8,19 +8,18 @@ Use this guide to keep your Paystack API/Secret Keys  safely in a node.js app, s
 - Your test secret key (Settings > API keys & Webhooks
 - Node.js and npm installed 
 - An existing Node.js project
-
   ## Steps
 
 ### 1. Install the dotenv package
 
-    In your project folder, Install the package that reads ` .env` files:
+In your project folder, Install the package that reads ` .env` files:
 
   ```bash
   npm install dotenv
   ```
 ### 2. Create the .env file
 
-  In the root of your project (the same folder as `package.json`), create a file named `.env` and add your key. Don't put spaces `=` or quotes around the key.
+In the root of your project (the same folder as `package.json`), create a file named `.env` and add your key. Don't put spaces `=` or quotes around the key.
 
 ```
 PAYSTACK_SECRET_KEY=your_test_secret_key_heren
