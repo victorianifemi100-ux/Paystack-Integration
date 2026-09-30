@@ -1,21 +1,8 @@
-# Paystack ![Documentation](https://img.shields.io/badge/Documentation-Available-blue) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)'[https://paystack.com/docs]
+# Paystack 
+![Documentation](https://img.shields.io/badge/Documentation-Available-blue) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
+[https://paystack.com/docs]
 
 A fintech company that helps businesses accept and manage online/offline payments across Africa.
-
-## Installation
-
-```bash
-git clone https://github.com/victorianifemi100-ux/Paystack-Integration.git
-cd Paystack-Integration
-```
-
-## Configuration
-
-Create a `.env` file and add your key:
-
-```
-PAYSTACK_SECRET_KEY=YOUR_SECRET_KEY
-```
 
 ## Getting Started with Paystack
 
@@ -62,18 +49,5 @@ A typical Paystack payment process involves the following steps:
 | 3.   | Make Payment         | The customer provides their payment details and completes the transaction. |
 | 4.   | Process Transaction  | Paystack processes the payment and verifies the transaction.               |
 | 5.   | Payment Confirmation | The application receives the transaction status and confirms the payment.  |
-
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Victoria Nifemi, [GitHub](https://github.com/victorianifemi100-ux)
 
 
